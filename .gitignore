@@ -1,0 +1,18 @@
+# .gitignore for Rate-Limited API Server
+
+# Ignore build artifacts and binary files
+*.exe
+*.out
+*.log
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Docker specific files
+Dockerfile
