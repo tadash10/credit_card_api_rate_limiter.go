@@ -1,0 +1,7 @@
+# Rate-Limited API Server Configuration
+
+# Requests per second rate limit
+rate: 10.0
+
+# Request capacity within the rate limit window
+capacity: 20
